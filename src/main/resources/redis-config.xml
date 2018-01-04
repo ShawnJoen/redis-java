@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<bean id="jedisPoolConfig" class="redis.clients.jedis.JedisPoolConfig">
+		<property name="testWhileIdle" value="true" />
+		<property name="minEvictableIdleTimeMillis" value="60000" />
+		<property name="timeBetweenEvictionRunsMillis" value="30000" />
+		<property name="numTestsPerEvictionRun" value="-1" />
+		<property name="maxTotal" value="8" />
+		<property name="maxIdle" value="8" />
+		<property name="minIdle" value="2" />
+	</bean>
+
+ 	<bean id="jedisSentinelPool" class="redis.clients.jedis.JedisSentinelPool" destroy-method="destroy">
+		<constructor-arg name="masterName">
+			<value>master1</value>
+		</constructor-arg>
+		<constructor-arg name="sentinels">
+			<set value-type="java.lang.String">
+			    <value>${redis.cluster.host1}</value>
+			    <value>${redis.cluster.host2}</value>
+			</set>
+		</constructor-arg>
+		<constructor-arg name="password">
+			<value>${redis.auth.password}</value>
+		</constructor-arg>
+		<constructor-arg name="poolConfig" ref="jedisPoolConfig" />
+	</bean>
+
+</beans>
