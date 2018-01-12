@@ -12,7 +12,7 @@
 	<!-- 将日志信息输出到文件，但是当文件的大小达到某个阈值的时候，日志文件会自动回滚 -->
     <appender name="RollingFileAppender" class="org.apache.log4j.RollingFileAppender">
         <!-- 设置日志信息输出文件全路径名 -->
-        <param name="File" value="logs/mac-lbs-web.log" />
+        <param name="File" value="logs/project.log" />
         <!-- 设置是否在重新启动服务时，在原有日志的基础添加新日志 -->
         <param name="Append" value="true" />
         <!-- 设置保存备份回滚日志的最大个数 -->
@@ -27,7 +27,7 @@
     </appender>
 	
 	<!-- 指定要输出日志的  Class, Package 这样指定的输出级别优先级最高 不受 Root Logger的影响-->
-	<logger name="mac.lbs">
+	<logger name="com.redis">
 		<level value="debug" />
 	</logger>
 	<!-- <logger name="org.springframework.core">

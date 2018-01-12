@@ -298,7 +298,7 @@ public class JedisSentinelUtils {
 	/**
 	 * 从main函数获取Spring容器内的bean实例
 	 * 
-	 * @param _jedisSentinelPool
+	 * @param jedisSentinelPool
 	 * */
 	public static void setJedisSentinelPool(JedisSentinelPool _jedisSentinelPool) {
 		jedisSentinelPool = _jedisSentinelPool;

@@ -1,0 +1,63 @@
+[2018-01-12 22:02:29:498] [DEBUG] [method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:174)]
+Loading properties file from class path resource [config/env.properties]
+
+[2018-01-12 22:03:20:412] [DEBUG] [method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:174)]
+Loading properties file from class path resource [config/env.properties]
+
+[2018-01-12 22:03:36:785] [DEBUG] [method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:174)]
+Loading properties file from class path resource [config/env.properties]
+
+[2018-01-12 22:04:09:250] [DEBUG] [method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:174)]
+Loading properties file from class path resource [config/env.properties]
+
+[2018-01-12 22:19:53:717] [DEBUG] [method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:174)]
+Loading properties file from class path resource [config/env.properties]
+
+[2018-01-12 22:20:16:030] [DEBUG] [method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:174)]
+Loading properties file from class path resource [config/env.properties]
+
+[2018-01-12 22:21:18:131] [DEBUG] [method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:174)]
+Loading properties file from class path resource [config/env.properties]
+
+[2018-01-12 22:23:56:680] [DEBUG] [method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:174)]
+Loading properties file from class path resource [config/env.properties]
+
+[2018-01-12 22:24:08:559] [DEBUG] [method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:174)]
+Loading properties file from class path resource [config/env.properties]
+
+[2018-01-12 22:25:47:949] [DEBUG] [method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:174)]
+Loading properties file from class path resource [config/env.properties]
+
+[2018-01-12 23:13:20:673] [DEBUG] [method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:174)]
+Loading properties file from class path resource [config/env.properties]
+
+[2018-01-12 23:29:09:343] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:93)]
+JedisPool init success！
+
+[2018-01-12 23:39:52:838] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:95)]
+JedisPool init success！
+
+[2018-01-12 23:47:05:304] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-12 23:48:05:871] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:98)]
+JedisPool init success！
+
+[2018-01-12 23:48:19:232] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:98)]
+JedisPool init success！
+
+[2018-01-12 23:48:27:751] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:98)]
+JedisPool init success！
+
+[2018-01-12 23:50:07:330] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:98)]
+JedisPool init success！
+
+[2018-01-12 23:50:14:745] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:98)]
+JedisPool init success！
+
+[2018-01-12 23:52:25:291] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:98)]
+JedisPool init success！
+
+[2018-01-13 00:00:46:264] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:98)]
+JedisPool init success！
+

@@ -9,6 +9,20 @@
 
 	<context:component-scan base-package="com.redis" />
 	
-	<import resource="classpath:redis-config.xml" />
+	<!-- Spring Jedis Sentinel Pool环境配置 -->
+	<!-- <import resource="classpath:redis-sentinel-config.xml" /> -->
 	
+	<!-- Spring Jedis Pool环境配置 -->
+	<!-- <import resource="classpath:redis-config.xml" /> -->
+	
+	<!-- PropertyPlaceholderConfigurer在加载上下文的时候暴露properties到自定义子类的属性中以供程序中使用 -->
+ 	<bean id="propertyConfigurer" class="com.redis.redis_java.properties.PropertyConfigurer">
+	   <property name="ignoreUnresolvablePlaceholders" value="true"/>
+	   <property name="ignoreResourceNotFound" value="true"/>
+	   <property name="locations">
+	       <list>
+	          <value>classpath:config/env.properties</value>
+	       </list>
+	   </property>
+	</bean>
 </beans>

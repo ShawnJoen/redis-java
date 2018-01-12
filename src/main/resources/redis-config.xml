@@ -3,30 +3,34 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
-	<bean id="jedisPoolConfig" class="redis.clients.jedis.JedisPoolConfig">
-		<property name="testWhileIdle" value="true" />
-		<property name="minEvictableIdleTimeMillis" value="60000" />
-		<property name="timeBetweenEvictionRunsMillis" value="30000" />
-		<property name="numTestsPerEvictionRun" value="-1" />
-		<property name="maxTotal" value="8" />
-		<property name="maxIdle" value="8" />
-		<property name="minIdle" value="2" />
-	</bean>
-
- 	<bean id="jedisSentinelPool" class="redis.clients.jedis.JedisSentinelPool" destroy-method="destroy">
-		<constructor-arg name="masterName">
-			<value>master1</value>
-		</constructor-arg>
-		<constructor-arg name="sentinels">
-			<set value-type="java.lang.String">
-			    <value>${redis.cluster.host1}</value>
-			    <value>${redis.cluster.host2}</value>
-			</set>
-		</constructor-arg>
-		<constructor-arg name="password">
-			<value>${redis.auth.password}</value>
-		</constructor-arg>
-		<constructor-arg name="poolConfig" ref="jedisPoolConfig" />
-	</bean>
+	<!-- Spring Jedis Pool -->
+    <bean id="jedisPoolConfig" 			class="redis.clients.jedis.JedisPoolConfig">
+    	<!-- 最大连接数 -->
+        <property name="maxTotal" 		value="${redis.maxActive}"/>
+        <!-- 最大空闲连接数 -->
+        <property name="maxIdle" 		value="${redis.maxIdle}"/>
+        <!-- 获取连接时的最大等待毫秒数(如果设置为阻塞时BlockWhenExhausted),如果超时就抛异常, 小于零:阻塞不确定的时间,  默认-1 -->
+        <property name="maxWaitMillis" 	value="${redis.maxWait}"/>
+        <!-- 1) Destroy线程会检测连接的间隔时间, 2) testWhileIdle的判断依据 -->
+        <property name="timeBetweenEvictionRunsMillis" 	value="${redis.timeBetweenEvictionRunsMillis}"/>
+        <!-- 在获取连接的时候检查有效性, 默认false -->
+        <property name="testWhileIdle" 	value="${redis.testWhileIdle}"/>
+    </bean>
+    <!-- JedisConnectionFactory 需要额外加 spring-data-redis -->
+    <bean id="connectionFactory" 	class="org.springframework.data.redis.connection.jedis.JedisConnectionFactory">
+        <property name="usePool" 	value="true"/>
+        <property name="hostName" 	value="${redis.host}"/>
+        <property name="port" 		value="${redis.port}"/> 
+        <property name="password" 	value="${redis.password}"/>
+        <!-- Client 读取超时 -->
+        <property name="timeout" 	value="${redis.timeout}"/>
+        <!-- Redis Database -->
+		<!-- <property name="database" value="${redis.default.db}"></property> -->
+        <constructor-arg index="0" ref="jedisPool" />
+        <constructor-arg name="poolConfig" ref="jedisPoolConfig"/>
+    </bean>
+    <bean id="redisTemplate" class="org.springframework.data.redis.core.StringRedisTemplate">
+        <property name="connectionFactory" ref="connectionFactory"/>
+    </bean>
 
 </beans>
