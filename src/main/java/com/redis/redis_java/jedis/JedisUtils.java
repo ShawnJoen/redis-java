@@ -69,7 +69,7 @@ public class JedisUtils {
             config.setMaxWaitMillis(2000);
             config.setTimeBetweenEvictionRunsMillis(30000);
             config.setTestWhileIdle(true);
-            jedisPool = new JedisPool(config, "127.0.0.1", 6379, 60000, null);
+            jedisPool = new JedisPool(config, "127.0.0.1", 6379, 60000, null, 2);
         } else {
             config.setMaxTotal(Integer.valueOf(properties.getProperty("redis.maxActive")));
             config.setMaxIdle(Integer.valueOf(properties.getProperty("redis.maxIdle")));
@@ -80,7 +80,8 @@ public class JedisUtils {
             		properties.getProperty("redis.host"), 
             		Integer.valueOf(properties.getProperty("redis.port")),
             		Integer.valueOf(properties.getProperty("redis.timeout")),
-            		properties.getProperty("redis.password")
+            		properties.getProperty("redis.password"),
+            		Integer.valueOf(properties.getProperty("redis.database"))
             );
         }
     }
@@ -947,21 +948,12 @@ public class JedisUtils {
             releaseResource(jedis);
             return s;
         }
-
-        /**
-         * 添加对应关系，如果对应关系已存在，则覆盖
-         *
-         * @param key
-         * @param map 对应关系
-         * @return 状态，成功返回OK
-         */
         public String hmset(byte[] key, Map<byte[], byte[]> map) {
             Jedis jedis = getJedis();
             String s = jedis.hmset(key, map);
             releaseResource(jedis);
             return s;
         }
-
     }
 
     public class Strings {
