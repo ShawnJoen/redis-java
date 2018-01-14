@@ -61,3 +61,451 @@ JedisPool init success！
 [2018-01-13 00:00:46:264] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:98)]
 JedisPool init success！
 
+[2018-01-13 09:48:43:835] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:98)]
+JedisPool init success！
+
+[2018-01-13 09:49:17:631] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:98)]
+JedisPool init success！
+
+[2018-01-13 09:49:19:648] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:98)]
+JedisPool init success！
+
+[2018-01-13 09:56:08:269] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 09:58:09:907] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:00:58:426] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:01:27:012] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:01:45:246] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:02:44:207] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:02:49:409] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:02:51:194] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:03:49:674] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:03:55:695] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:05:42:035] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:09:51:016] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:09:52:909] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:09:54:332] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:09:55:728] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:09:57:339] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:11:47:997] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:11:50:249] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:18:20:060] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:18:45:147] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:28:23:554] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:31:30:788] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:31:36:781] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:39:55:024] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:39:56:640] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:41:03:516] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:41:11:071] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:41:12:800] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:41:44:226] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:41:55:284] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:42:50:575] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:42:58:496] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:43:04:266] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:43:05:808] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:43:07:497] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:43:09:633] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:43:11:998] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:43:13:970] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:43:15:438] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:43:16:785] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:43:18:110] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:43:19:789] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:43:21:345] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:43:23:196] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:43:30:863] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:43:32:460] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:43:46:102] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:43:48:030] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:43:55:333] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:43:56:863] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:43:58:225] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:44:21:861] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:44:23:501] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:44:37:960] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:44:39:412] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:44:44:997] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:44:46:770] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:44:49:142] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:44:50:635] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:44:52:645] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:44:58:059] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:44:59:501] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:45:00:941] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:45:14:026] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:45:15:664] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:45:28:367] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:45:31:264] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:45:38:787] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:45:56:847] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:45:58:333] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:46:06:633] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:46:08:245] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:46:09:968] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:46:11:435] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:46:13:874] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:46:49:845] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:47:38:426] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:47:40:204] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:47:42:089] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:50:00:626] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:50:01:968] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 10:52:28:048] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 11:05:05:846] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 11:07:01:014] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 11:09:15:565] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 11:09:59:935] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 11:11:16:204] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 11:11:18:547] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 11:11:38:813] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 11:12:29:617] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 11:12:58:846] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-13 11:17:12:738] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-14 12:26:46:858] [INFO ] [method:com.redis.redis_java.jedis.JedisUtils.getJedis(JedisUtils.java:99)]
+JedisPool init success！
+
+[2018-01-14 17:23:29:940] [ERROR] [method:com.redis.redis_java.id.IdGeneratorUtil.innerNext(IdGeneratorUtil.java:88)]
+generate id error!
+
+redis.clients.jedis.exceptions.JedisConnectionException: Could not get a resource from the pool
+	at redis.clients.util.Pool.getResource(Pool.java:53)
+	at redis.clients.jedis.JedisPool.getResource(JedisPool.java:226)
+	at com.redis.redis_java.id.IdGeneratorUtil.innerNext(IdGeneratorUtil.java:79)
+	at com.redis.redis_java.id.IdGeneratorUtil.next(IdGeneratorUtil.java:62)
+	at com.redis.redis_java.id.IdGeneratorImpl.getId(IdGeneratorImpl.java:23)
+	at com.redis.redis_java.id.IdGeneratorImpl.getOrderId(IdGeneratorImpl.java:32)
+	at com.redis.redis_java.id.App.main(App.java:19)
+Caused by: redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketTimeoutException: connect timed out
+	at redis.clients.jedis.Connection.connect(Connection.java:207)
+	at redis.clients.jedis.BinaryClient.connect(BinaryClient.java:93)
+	at redis.clients.jedis.BinaryJedis.connect(BinaryJedis.java:1767)
+	at redis.clients.jedis.JedisFactory.makeObject(JedisFactory.java:106)
+	at org.apache.commons.pool2.impl.GenericObjectPool.create(GenericObjectPool.java:868)
+	at org.apache.commons.pool2.impl.GenericObjectPool.borrowObject(GenericObjectPool.java:435)
+	at org.apache.commons.pool2.impl.GenericObjectPool.borrowObject(GenericObjectPool.java:363)
+	at redis.clients.util.Pool.getResource(Pool.java:49)
+	... 6 more
+Caused by: java.net.SocketTimeoutException: connect timed out
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at redis.clients.jedis.Connection.connect(Connection.java:184)
+	... 13 more
+[2018-01-14 17:23:32:954] [ERROR] [method:com.redis.redis_java.id.IdGeneratorUtil.innerNext(IdGeneratorUtil.java:88)]
+generate id error!
+
+redis.clients.jedis.exceptions.JedisConnectionException: Could not get a resource from the pool
+	at redis.clients.util.Pool.getResource(Pool.java:53)
+	at redis.clients.jedis.JedisPool.getResource(JedisPool.java:226)
+	at com.redis.redis_java.id.IdGeneratorUtil.innerNext(IdGeneratorUtil.java:79)
+	at com.redis.redis_java.id.IdGeneratorUtil.next(IdGeneratorUtil.java:62)
+	at com.redis.redis_java.id.IdGeneratorImpl.getId(IdGeneratorImpl.java:23)
+	at com.redis.redis_java.id.IdGeneratorImpl.getOrderId(IdGeneratorImpl.java:32)
+	at com.redis.redis_java.id.App.main(App.java:19)
+Caused by: redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketTimeoutException: connect timed out
+	at redis.clients.jedis.Connection.connect(Connection.java:207)
+	at redis.clients.jedis.BinaryClient.connect(BinaryClient.java:93)
+	at redis.clients.jedis.BinaryJedis.connect(BinaryJedis.java:1767)
+	at redis.clients.jedis.JedisFactory.makeObject(JedisFactory.java:106)
+	at org.apache.commons.pool2.impl.GenericObjectPool.create(GenericObjectPool.java:868)
+	at org.apache.commons.pool2.impl.GenericObjectPool.borrowObject(GenericObjectPool.java:435)
+	at org.apache.commons.pool2.impl.GenericObjectPool.borrowObject(GenericObjectPool.java:363)
+	at redis.clients.util.Pool.getResource(Pool.java:49)
+	... 6 more
+Caused by: java.net.SocketTimeoutException: connect timed out
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at redis.clients.jedis.Connection.connect(Connection.java:184)
+	... 13 more
+[2018-01-14 17:23:35:956] [ERROR] [method:com.redis.redis_java.id.IdGeneratorUtil.innerNext(IdGeneratorUtil.java:88)]
+generate id error!
+
+redis.clients.jedis.exceptions.JedisConnectionException: Could not get a resource from the pool
+	at redis.clients.util.Pool.getResource(Pool.java:53)
+	at redis.clients.jedis.JedisPool.getResource(JedisPool.java:226)
+	at com.redis.redis_java.id.IdGeneratorUtil.innerNext(IdGeneratorUtil.java:79)
+	at com.redis.redis_java.id.IdGeneratorUtil.next(IdGeneratorUtil.java:62)
+	at com.redis.redis_java.id.IdGeneratorImpl.getId(IdGeneratorImpl.java:23)
+	at com.redis.redis_java.id.IdGeneratorImpl.getOrderId(IdGeneratorImpl.java:32)
+	at com.redis.redis_java.id.App.main(App.java:19)
+Caused by: redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketTimeoutException: connect timed out
+	at redis.clients.jedis.Connection.connect(Connection.java:207)
+	at redis.clients.jedis.BinaryClient.connect(BinaryClient.java:93)
+	at redis.clients.jedis.BinaryJedis.connect(BinaryJedis.java:1767)
+	at redis.clients.jedis.JedisFactory.makeObject(JedisFactory.java:106)
+	at org.apache.commons.pool2.impl.GenericObjectPool.create(GenericObjectPool.java:868)
+	at org.apache.commons.pool2.impl.GenericObjectPool.borrowObject(GenericObjectPool.java:435)
+	at org.apache.commons.pool2.impl.GenericObjectPool.borrowObject(GenericObjectPool.java:363)
+	at redis.clients.util.Pool.getResource(Pool.java:49)
+	... 6 more
+Caused by: java.net.SocketTimeoutException: connect timed out
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at redis.clients.jedis.Connection.connect(Connection.java:184)
+	... 13 more
+[2018-01-14 17:23:38:961] [ERROR] [method:com.redis.redis_java.id.IdGeneratorUtil.innerNext(IdGeneratorUtil.java:88)]
+generate id error!
+
+redis.clients.jedis.exceptions.JedisConnectionException: Could not get a resource from the pool
+	at redis.clients.util.Pool.getResource(Pool.java:53)
+	at redis.clients.jedis.JedisPool.getResource(JedisPool.java:226)
+	at com.redis.redis_java.id.IdGeneratorUtil.innerNext(IdGeneratorUtil.java:79)
+	at com.redis.redis_java.id.IdGeneratorUtil.next(IdGeneratorUtil.java:62)
+	at com.redis.redis_java.id.IdGeneratorImpl.getId(IdGeneratorImpl.java:23)
+	at com.redis.redis_java.id.IdGeneratorImpl.getOrderId(IdGeneratorImpl.java:32)
+	at com.redis.redis_java.id.App.main(App.java:19)
+Caused by: redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketTimeoutException: connect timed out
+	at redis.clients.jedis.Connection.connect(Connection.java:207)
+	at redis.clients.jedis.BinaryClient.connect(BinaryClient.java:93)
+	at redis.clients.jedis.BinaryJedis.connect(BinaryJedis.java:1767)
+	at redis.clients.jedis.JedisFactory.makeObject(JedisFactory.java:106)
+	at org.apache.commons.pool2.impl.GenericObjectPool.create(GenericObjectPool.java:868)
+	at org.apache.commons.pool2.impl.GenericObjectPool.borrowObject(GenericObjectPool.java:435)
+	at org.apache.commons.pool2.impl.GenericObjectPool.borrowObject(GenericObjectPool.java:363)
+	at redis.clients.util.Pool.getResource(Pool.java:49)
+	... 6 more
+Caused by: java.net.SocketTimeoutException: connect timed out
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at redis.clients.jedis.Connection.connect(Connection.java:184)
+	... 13 more
+[2018-01-14 17:23:41:964] [ERROR] [method:com.redis.redis_java.id.IdGeneratorUtil.innerNext(IdGeneratorUtil.java:88)]
+generate id error!
+
+redis.clients.jedis.exceptions.JedisConnectionException: Could not get a resource from the pool
+	at redis.clients.util.Pool.getResource(Pool.java:53)
+	at redis.clients.jedis.JedisPool.getResource(JedisPool.java:226)
+	at com.redis.redis_java.id.IdGeneratorUtil.innerNext(IdGeneratorUtil.java:79)
+	at com.redis.redis_java.id.IdGeneratorUtil.next(IdGeneratorUtil.java:62)
+	at com.redis.redis_java.id.IdGeneratorImpl.getId(IdGeneratorImpl.java:23)
+	at com.redis.redis_java.id.IdGeneratorImpl.getOrderId(IdGeneratorImpl.java:32)
+	at com.redis.redis_java.id.App.main(App.java:19)
+Caused by: redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketTimeoutException: connect timed out
+	at redis.clients.jedis.Connection.connect(Connection.java:207)
+	at redis.clients.jedis.BinaryClient.connect(BinaryClient.java:93)
+	at redis.clients.jedis.BinaryJedis.connect(BinaryJedis.java:1767)
+	at redis.clients.jedis.JedisFactory.makeObject(JedisFactory.java:106)
+	at org.apache.commons.pool2.impl.GenericObjectPool.create(GenericObjectPool.java:868)
+	at org.apache.commons.pool2.impl.GenericObjectPool.borrowObject(GenericObjectPool.java:435)
+	at org.apache.commons.pool2.impl.GenericObjectPool.borrowObject(GenericObjectPool.java:363)
+	at redis.clients.util.Pool.getResource(Pool.java:49)
+	... 6 more
+Caused by: java.net.SocketTimeoutException: connect timed out
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at redis.clients.jedis.Connection.connect(Connection.java:184)
+	... 13 more
